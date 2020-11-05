@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#remove file generated y codeblocks 
+c.*
+bin/
