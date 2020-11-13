@@ -7,7 +7,7 @@
 // funtions
 
 void swap(int*x , int *y);
-void print_array(int *a ,int s);
+void print_array(int*a ,int s);
 
 
 #endif // UTILS_H_INCLUDED
